@@ -1,0 +1,16 @@
+{
+  "name": "inq",
+  "version": "1.0.0",
+  "description": "testing inquirer",
+  "main": "inq.js",
+  "type": "module",
+  "scripts": {
+    "start": "node inq.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anya",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
